@@ -1,7 +1,7 @@
 {
-  "name": "learn-webpack",
+  "name": "particles",
   "version": "1.0.0",
-  "description": "复习webpack",
+  "description": "Particles",
   "main": "index.js",
   "scripts": {
     "start": "webpack",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cnAlan/learn-webpack.git"
+    "url": "git+https://github.com/cnAlan/particles.git"
   },
   "author": "cnAlan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cnAlan/learn-webpack/issues"
+    "url": "https://github.com/cnAlan/particles/issues"
   },
-  "homepage": "https://github.com/cnAlan/learn-webpack#readme",
+  "homepage": "https://github.com/cnAlan/particles#readme",
   "dependencies": {
     "html-webpack-plugin": "^3.2.0",
     "ts-loader": "^5.3.3",
